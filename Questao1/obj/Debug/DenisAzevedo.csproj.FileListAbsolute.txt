@@ -1,0 +1,7 @@
+C:\Users\Dênis\source\repos\DenisAzevedo\DenisAzevedo\bin\Debug\DenisAzevedo.exe.config
+C:\Users\Dênis\source\repos\DenisAzevedo\DenisAzevedo\bin\Debug\DenisAzevedo.exe
+C:\Users\Dênis\source\repos\DenisAzevedo\DenisAzevedo\bin\Debug\DenisAzevedo.pdb
+C:\Users\Dênis\source\repos\DenisAzevedo\DenisAzevedo\obj\Debug\DenisAzevedo.csprojAssemblyReference.cache
+C:\Users\Dênis\source\repos\DenisAzevedo\DenisAzevedo\obj\Debug\DenisAzevedo.csproj.CoreCompileInputs.cache
+C:\Users\Dênis\source\repos\DenisAzevedo\DenisAzevedo\obj\Debug\DenisAzevedo.exe
+C:\Users\Dênis\source\repos\DenisAzevedo\DenisAzevedo\obj\Debug\DenisAzevedo.pdb

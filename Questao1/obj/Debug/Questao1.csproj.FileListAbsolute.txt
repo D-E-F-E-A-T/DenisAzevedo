@@ -1,0 +1,6 @@
+C:\Users\Dênis\source\repos\DenisAzevedo\DenisAzevedo\bin\Debug\DenisAzevedo.exe.config
+C:\Users\Dênis\source\repos\DenisAzevedo\DenisAzevedo\bin\Debug\DenisAzevedo.exe
+C:\Users\Dênis\source\repos\DenisAzevedo\DenisAzevedo\bin\Debug\DenisAzevedo.pdb
+C:\Users\Dênis\source\repos\DenisAzevedo\DenisAzevedo\obj\Debug\Questao1.csproj.CoreCompileInputs.cache
+C:\Users\Dênis\source\repos\DenisAzevedo\DenisAzevedo\obj\Debug\DenisAzevedo.exe
+C:\Users\Dênis\source\repos\DenisAzevedo\DenisAzevedo\obj\Debug\DenisAzevedo.pdb

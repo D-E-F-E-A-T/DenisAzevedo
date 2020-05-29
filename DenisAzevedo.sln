@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.757
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Questao2", "Questao2\Questao2.csproj", "{EF5C1486-14A8-4BC9-941F-8B22B9B3D466}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Questao1", "Questao1\Questao1.csproj", "{17CFBA40-B966-4073-9B77-037CDEB0BA3D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF5C1486-14A8-4BC9-941F-8B22B9B3D466}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF5C1486-14A8-4BC9-941F-8B22B9B3D466}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF5C1486-14A8-4BC9-941F-8B22B9B3D466}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF5C1486-14A8-4BC9-941F-8B22B9B3D466}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17CFBA40-B966-4073-9B77-037CDEB0BA3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17CFBA40-B966-4073-9B77-037CDEB0BA3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17CFBA40-B966-4073-9B77-037CDEB0BA3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17CFBA40-B966-4073-9B77-037CDEB0BA3D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8A360F3F-908B-4976-AA8B-0D993DC6151D}
+	EndGlobalSection
+EndGlobal

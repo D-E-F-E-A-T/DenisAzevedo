@@ -1,0 +1,7 @@
+C:\Users\Dênis\source\repos\DenisAzevedo\Questao2\obj\Debug\Questao2.csprojAssemblyReference.cache
+C:\Users\Dênis\source\repos\DenisAzevedo\Questao2\obj\Debug\Questao2.csproj.CoreCompileInputs.cache
+C:\Users\Dênis\source\repos\DenisAzevedo\Questao2\bin\Debug\Questao2.exe.config
+C:\Users\Dênis\source\repos\DenisAzevedo\Questao2\bin\Debug\Questao2.exe
+C:\Users\Dênis\source\repos\DenisAzevedo\Questao2\bin\Debug\Questao2.pdb
+C:\Users\Dênis\source\repos\DenisAzevedo\Questao2\obj\Debug\Questao2.exe
+C:\Users\Dênis\source\repos\DenisAzevedo\Questao2\obj\Debug\Questao2.pdb
